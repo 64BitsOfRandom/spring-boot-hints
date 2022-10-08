@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="779afdde-f48b-4777-a07d-634d333a9b43" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-batch/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-batch/src/main/java/batch/example/com/config/BatchConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-batch/src/main/java/batch/example/com/listeners/JobCompletionNotificationListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-batch/src/main/java/batch/example/com/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-batch/src/main/java/batch/example/com/processors/PersonItemProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-batch/src/main/resources/sample-data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-batch/src/main/resources/schema-all.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Fr2mXB1mA3HEpdLkrUAO1GV1Vn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "jdk.selected.JAVA_MODULE": "GraalVM",
+    "last_opened_file_path": "C:/Users/Сергей/IdeaProjects/spring-boot-hints/spring-batch/src/main/resources",
+    "settings.editor.selected.configurable": "preferences.general",
+    "spring.configuration.checksum": "6f0f5de15ea9519e3530a25e16e4b551"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Сергей\IdeaProjects\spring-boot-hints\spring-batch\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="batch.example.com.processors" />
+      <recent name="batch.example.com.listeners" />
+      <recent name="batch.example.com.model" />
+      <recent name="batch.example.com.config" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-batch" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="batch.example.com.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="779afdde-f48b-4777-a07d-634d333a9b43" name="Changes" comment="" />
+      <created>1665236041816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665236041816</updated>
+      <workItem from="1665236043027" duration="858000" />
+      <workItem from="1665236978604" duration="1213000" />
+    </task>
+    <servers />
+  </component>
+</project>
